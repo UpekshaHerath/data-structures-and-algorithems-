@@ -1,0 +1,67 @@
+# NetBeans-specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+*.jar
+*.jad
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven
+log/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Other
+*.cache
+*.class
+*.gz
+*.orig
+*.rej
+*.tar
+*.zip
+Thumbs.db
+Desktop.ini
